@@ -1,0 +1,26 @@
+{
+  "name": "cara-a-multipage-modern-ecommerce-website",
+  "version": "1.0.0",
+  "description": "e commerce website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammad-Asif-Web/Cara-A-Multipage-Modern-Ecommerce-Website.git"
+  },
+  "keywords": [
+    "ecommerce-website",
+    "modern-website",
+    "multipage-website",
+    "responsive-website",
+    "ecommerce-project"
+  ],
+  "author": "muhammad asif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammad-Asif-Web/Cara-A-Multipage-Modern-Ecommerce-Website/issues"
+  },
+  "homepage": "https://github.com/Mohammad-Asif-Web/Cara-A-Multipage-Modern-Ecommerce-Website#readme"
+}
